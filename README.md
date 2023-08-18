@@ -8,5 +8,5 @@ Hi There 👋!!
 👉 Lead defect tracking, reporting, and resolution processes.<br>
 👉 Provide mentorship and guidance to the QA Team.<br>
 👉 Generate comprehensive test reports for stakeholders.<br>
-👉 Advocate for quality standards and practices within the KAP organization, presenting testing progress to the Leadership Team.<br>
+👉 Advocate for quality standards and practices within the organization, presenting testing progress to the Leadership Team.<br>
 👉 Evaluate and implement new testing tools and technologies, to continuously improve QA processes based on industry trends.
