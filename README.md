@@ -1,4 +1,4 @@
-Hi There 👋!!
+Hi There  👋!!
 
 👉 Develop and implement QA strategies aligned with project objectives. <br>
 👉 Support and lead the optimization of QA processes, implementing standard methodologies.<br>
